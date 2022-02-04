@@ -3,6 +3,7 @@
 - 📚 Studying in The Brige - FullStack Developer
 - 📩 You can contact me by e-mail: amparo.frontend@gmail.com
 - 🤗 Pronouns: She/Her
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=amparo1206" alt="Amparo1206" /> </p>
 
 <div align="center">
   <a href="https://github.com/amparo1206">
