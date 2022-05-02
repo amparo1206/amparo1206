@@ -1,6 +1,6 @@
 ### Hi There, I'm Amparo Ramada 👋
 
-- 📚 Studying in The Brige - FullStack Developer
+- 💻 FullStack Developer
 - 📩 You can contact me by e-mail: amparo.developer@gmail.com
 - 🤗 Pronouns: She/Her
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amparo1206" alt="Amparo1206" /> </p>
