@@ -4,12 +4,6 @@
 - 📩 You can contact me by e-mail: amparo.developer@gmail.com
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amparo1206" alt="Amparo1206" /> </p>
 
-<div align="center">
-  <a href="https://github.com/amparo1206">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=amparo1206&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amparo1206&layout=compact&langs_count=7&theme=aura"/>
-</div>
-  
   
 
 </div>
